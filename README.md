@@ -2,37 +2,66 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer in training.  <br>I love learning new technologies and building simple, clean web applications.</p>
+<p align="left">
+I'm a Frontend Developer in training.<br>
+I love learning new technologies and building simple, clean web applications.
+</p>
 
-###
+---
 
 <h2 align="left">About me</h2>
 
-###
+<p align="left">
+📚 Currently learning: Angular, TypeScript, NgRx <br>
+🎓 Completed courses: Angular Fundamentals, Advanced TypeScript <br>
+🎯 Goals: Build functional web apps and improve my frontend skills <br>
+🎲 Fun fact: I enjoy creating mini-games and experimenting with UI designs
+</p>
 
-<p align="left">📚 Currently learning: Angular, TypeScript, NgRx  <br>🎓 Completed courses: Angular Fundamentals, Advanced TypeScript  <br>🎯 Goals: Build functional web apps and improve my frontend skills  <br>🎲 Fun fact: I enjoy creating mini-games and experimenting with UI designs</p>
-
-###
+---
 
 <h2 align="left">Contact Me 📞</h2>
 
-###
-
 <div align="left">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hoda-hamed-428682347/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52" height="40" alt="LinkedIn"/>
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <a href="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hodahamed546@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+
+  <!-- Email -->
+  <a href="mailto:hodahamed546@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="52" height="40" alt="Gmail"/>
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-    <a href=" https://wa.me/201008678140/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-    <a href="https://www.facebook.com/share/173kv9oZKf/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201008678140" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
+         width="52" height="40" alt="WhatsApp"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/173kv9oZKf/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+         width="52" height="40" alt="Facebook"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/hodahamed86?igsh=bzI3bm9yYTdicGV3" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+         width="52" height="40" alt="Instagram"/>
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
+         width="52" height="40" alt="Telegram"/>
+  </a>
+
 </div>
+
 
 ###
 
