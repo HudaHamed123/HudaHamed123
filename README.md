@@ -97,7 +97,8 @@ I love learning new technologies and building simple, clean web applications.
 <!-- ================= State & UI ================= -->
 <h3 align="left">Angular Ecosystem</h3>
 <div align="left">
-  <img src="https://ngrx.io/assets/images/badge.svg" height="40" alt="NgRx" />
+ <img src="https://img.shields.io/badge/NgRx-State%20Management-764ABC?style=for-the-badge&logo=redux&logoColor=white"
+     height="40" />
   <img width="12" />
   <img src="https://www.primefaces.org/cdn/primeng/images/logo.svg" height="40" alt="PrimeNG" />
   <img width="12" />
